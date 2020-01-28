@@ -1,12 +1,12 @@
 {
-    "appName":"",
+    "appName":"DDRA",
     "purchaseCode":"",
-    "adminEmail":"",
+    "adminEmail":"admin@admin.com",
     "firebaseConfig":{
-        "apiKey": "",
-        "authDomain": "",
-        "databaseURL": "",
-        "projectId": "",
+        "apiKey": " AIzaSyA2AeX_DfcBG0NWv9u00y-aP1sfg8ZLUQ8 ",
+        "authDomain": "https://objective-shirley-ce03c4.netlify.com",
+        "databaseURL": "https://steady-hallway-223313.firebaseio.com/",
+        "projectId": "steady-hallway-223313",
         "storageBucket": "",
         "messagingSenderId": "",
         "appId": ""
