@@ -12,8 +12,8 @@
     "node": "8"
   },
   "dependencies": {
-    "@google-cloud/firestore": "^1.2.0",
-    "@google-cloud/storage": "^2.3.4",
+    "@google-cloud/firestore": "^8.3.0",
+    "@google-cloud/storage": "^7.19.0",
     "@sendgrid/mail": "^6.3.1",
     "body-parser": "^1.x.x",
     "cheerio": "^1.0.0-rc.3",
